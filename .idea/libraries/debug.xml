@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/spotify/BuscaMusica/build/intermediates/pre-dexed/debug/gson-2.3.1-e76e5c9b11097438322abd3c5b7385613fd5cff9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/spotify/BuscaMusica/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-5b4c2e95569a747d124024d656b4b7ff1601b008.jar!/" />
+      <root url="jar://$PROJECT_DIR$/spotify/BuscaMusica/build/intermediates/pre-dexed/debug/retrofit-1.9.0-e7f256ce5f0f8f72e6d79d527141e218e77dd462.jar!/" />
+      <root url="jar://$PROJECT_DIR$/spotify/BuscaMusica/build/intermediates/pre-dexed/debug/classes-92754ce37928a4408c1dac8f7ea1ff6a8e445982.jar!/" />
+      <root url="jar://$PROJECT_DIR$/spotify/BuscaMusica/build/intermediates/pre-dexed/debug/classes-bad2cb2e449ffe661488dfe346f7b51a6aaae080.jar!/" />
+      <root url="jar://$PROJECT_DIR$/spotify/BuscaMusica/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-2fdc51fc33d19a3aa833beae7db43e1e6f237a19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/spotify/BuscaMusica/build/intermediates/pre-dexed/debug/classes-63147bb439dc9b0cb6d3517017e0687acd72a528.jar!/" />
+      <root url="jar://$PROJECT_DIR$/spotify/BuscaMusica/build/intermediates/pre-dexed/debug/guava-18.0-33c3d5168e35fb7ba88e65590cacf49581f224c9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/spotify/BuscaMusica/build/intermediates/pre-dexed/debug/picasso-2.5.2-7cce245e0c1f7e1e5e7a48b9b38f4563b5f7924f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/spotify/BuscaMusica/build/intermediates/pre-dexed/debug/classes-bde07943f36b66a4849052e42453dd47492273e7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/spotify/BuscaMusica/build/intermediates/pre-dexed/debug/classes-cf4be79f7c59c75887059e833c1c037c7bd0af68.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

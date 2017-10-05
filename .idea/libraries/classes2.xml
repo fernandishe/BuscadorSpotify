@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="classes2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/spotify/BuscaMusica/build/intermediates/exploded-aar/com.spotify.android/spotify-api/0.4.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

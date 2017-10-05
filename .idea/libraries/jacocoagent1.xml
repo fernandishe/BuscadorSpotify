@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jacocoagent1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/spotify/spotify-api/build/tmp/expandedArchives/org.jacoco.agent-0.7.4.201502262128.jar_erhonoqzytd9n82txyisukt4j/jacocoagent.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

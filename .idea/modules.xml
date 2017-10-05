@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spotify/spotify-api/build/intermediates/exploded-aar/com.android.support.test/runner/0.2/0.2.iml" filepath="$PROJECT_DIR$/spotify/spotify-api/build/intermediates/exploded-aar/com.android.support.test/runner/0.2/0.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spotify/BuscaMusica/build/intermediates/exploded-aar/com.spotify.android/spotify-api/0.4.1/0.4.1.iml" filepath="$PROJECT_DIR$/spotify/BuscaMusica/build/intermediates/exploded-aar/com.spotify.android/spotify-api/0.4.1/0.4.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spotify/BuscaMusica/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/23.1.1.iml" filepath="$PROJECT_DIR$/spotify/BuscaMusica/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/23.1.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spotify/spotify-api/src/androidTest/androidTest.iml" filepath="$PROJECT_DIR$/spotify/spotify-api/src/androidTest/androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spotify/BuscaMusica/build/generated/source/buildConfig/androidTest/androidTest1.iml" filepath="$PROJECT_DIR$/spotify/BuscaMusica/build/generated/source/buildConfig/androidTest/androidTest1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spotify/spotify-api/build/generated/source/buildConfig/androidTest/androidTest2.iml" filepath="$PROJECT_DIR$/spotify/spotify-api/build/generated/source/buildConfig/androidTest/androidTest2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spotify/spotify-api/build/generated/source/buildConfig/buildConfig.iml" filepath="$PROJECT_DIR$/spotify/spotify-api/build/generated/source/buildConfig/buildConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spotify/BuscaMusica/build/generated/source/buildConfig/buildConfig1.iml" filepath="$PROJECT_DIR$/spotify/BuscaMusica/build/generated/source/buildConfig/buildConfig1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spotify/spotify-api/build/intermediates/manifest/androidTest/debug/debug.iml" filepath="$PROJECT_DIR$/spotify/spotify-api/build/intermediates/manifest/androidTest/debug/debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spotify/spotify-api/src/main/main.iml" filepath="$PROJECT_DIR$/spotify/spotify-api/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spotify/BuscaMusica/src/main/main1.iml" filepath="$PROJECT_DIR$/spotify/BuscaMusica/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spotify/BuscaMusica/build/generated/source/r/r.iml" filepath="$PROJECT_DIR$/spotify/BuscaMusica/build/generated/source/r/r.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spotify/spotify-api/build/intermediates/bundles/release/release.iml" filepath="$PROJECT_DIR$/spotify/spotify-api/build/intermediates/bundles/release/release.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spotify/BuscaMusica/build/intermediates/exploded-aar/spotify-auth-1.0.0-beta12/spotify-auth-1.0.0-beta12.iml" filepath="$PROJECT_DIR$/spotify/BuscaMusica/build/intermediates/exploded-aar/spotify-auth-1.0.0-beta12/spotify-auth-1.0.0-beta12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spotify/spotify-api/src/test/test.iml" filepath="$PROJECT_DIR$/spotify/spotify-api/src/test/test.iml" />
+    </modules>
+  </component>
+</project>

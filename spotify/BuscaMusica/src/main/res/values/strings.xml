@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Buscador Spotify</string>
+    <string name="search">Buscar</string>
+    <string name="cover_art_description">Cover artista</string>
+    <string name="search_hint">Buscar canciones</string>
+</resources>
